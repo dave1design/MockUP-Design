@@ -1,0 +1,7 @@
+# third-party mockup downloads (2 GB, licensed for personal use, far above GitHub's file limits)
+mockups/
+# local tooling and OS files
+.graph-indexer/
+.DS_Store
+node_modules/
+dist/
