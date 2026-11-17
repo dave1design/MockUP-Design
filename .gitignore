@@ -5,3 +5,5 @@
 .DS_Store
 node_modules/
 dist/
+# removed from the repo on GitHub; kept locally
+CLAUDE_PROMPT.md
